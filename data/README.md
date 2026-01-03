@@ -1,1 +1,1 @@
-# Raw and cleaned datasets for the Blinkit Store Sales project.
+# Raw and Cleaned datasets for the Blinkit Store Sales project.
