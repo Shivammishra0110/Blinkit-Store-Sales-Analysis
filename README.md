@@ -33,3 +33,7 @@ Total sales & average sales
 Outlet size & outlet type performance
 Item category contribution
 Ratings vs sales analysis
+
+# Dashboard Overview
+<img width="1337" height="751" alt="Blinkit_Dashboard" src="https://github.com/user-attachments/assets/30c5d45b-aee3-4dff-8bf9-37c5640d6761" />
+
